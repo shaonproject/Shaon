@@ -1,12 +1,12 @@
 {
   "sim": "http://sgp1.hmvhostings.com:25747",
   "api": "https://noobs-api.koyeb.app",
-  "api2": "https://noobs-api-production.up.railway.app",
-  "alldl": "https://noobs-api-production.up.railway.app",
+  "api2": "https://noobs-api.up.railway.app",
+  "alldl": "https://noobs-api.up.railway.app",
   "random": "https://noobs-api.koyeb.app",
   "api3": "https://cyber-video-api.vercel.app",
   "fb": "https://all-api-nine.vercel.app",
-  "imgur": "https://noobs-api-production.up.railway.app",
+  "imgur": "https://noobs-api.up.railway.app",
   "noobs": "https://noobs-api-sable.vercel.app",
   "ytdown": "https://alldl-3oq5.vercel.app"
  }
